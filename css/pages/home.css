@@ -1,7 +1,7 @@
 @import url('../styles.css');
 
 #header.page-home {
-    background-image: url("../../images/background-header.jpg") ;
+    background-image: url(/images/foto_Carro.png);
 }
 
 #customers {
@@ -15,7 +15,7 @@
 }
 
 #customers .btn:hover {
-    background-color: rgb(130, 130, 130);
+    background-color: rgb(240, 13, 13);
     color: rgb(220, 220, 220);
 }
 

@@ -67,11 +67,11 @@
 }
 
 .btn{
-    background-color:rgb(84,209,84);color:#fff;display:inline-block;border-radius:30px;padding:10px 20px;text-decoration:none;transition:ease .5s all;border:none;cursor:pointer
+    background-color:rgb(238, 27, 27);color:#fff;display:inline-block;border-radius:30px;padding:10px 20px;text-decoration:none;transition:ease .5s all;border:none;cursor:pointer
 }
 
 .btn:hover{
-    background-color:rgb(84,180,84)
+    background-color:rgb(239, 68, 34)
 }
 
 .btn.orange{
@@ -99,11 +99,11 @@ h2:after{
 }
 
 .icon-container{
-    display:inline-block;width:140px;height:140px;background:#e1f3e1;border-radius:30px;position:relative
+    display:inline-block;width:140px;height:140px;background:#c7c8c7;border-radius:30px;position:relative
 }
 
 .icon-container .material-icons{
-    display:block;font-size:85px;color:rgb(84,209,84);position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);cursor:default
+    display:block;font-size:85px;color:rgb(5, 8, 5);position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);cursor:default
 }
 
 .img-box-round{
@@ -111,7 +111,7 @@ h2:after{
 }
 
 .img-box-label:before{
-    content:'';display:block;width:50%;height:60px;border-right:2px solid rgb(32,123,32);background:transparent;margin-bottom:10px
+    content:'';display:block;width:50%;height:60px;border-right:2px solid rgb(123, 32, 35);background:transparent;margin-bottom:10px
 }
 
 nav ul,nav ul li{
@@ -127,7 +127,7 @@ body{
 }
 
 #header .btn:hover{
-    background-color:rgb(84,180,84)
+    background-color:rgb(220, 227, 220)
 }
 
 #header nav a{
@@ -135,7 +135,7 @@ body{
 }
 
 #header nav a:hover,#header nav a.active{
-    background-color:rgba(84,209,84,0.3)
+    background-color:rgba(234, 18, 10, 0.3)
 }
 
 #header h1{
@@ -220,7 +220,7 @@ body{
 }
 
 #header.page-home{
-    background-image:url(../../images/background-header.jpg)
+    background-image: url(../../images/foto_Carro.png);
 }
 
 #customers{
