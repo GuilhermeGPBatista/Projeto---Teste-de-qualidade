@@ -108,7 +108,7 @@
   }
   
   .btn.orange {
-    background-color: #fed136;
+    background-color: #ef281a;
   }
   
   .btn.orange:hover {
@@ -222,7 +222,7 @@
   
   #header nav a:hover,
   #header nav a.active {
-    background-color: rgba(84, 209, 84, 0.3);
+    background-color: rgba(229, 106, 18, 0.3);
   }
   
   #header h1 {

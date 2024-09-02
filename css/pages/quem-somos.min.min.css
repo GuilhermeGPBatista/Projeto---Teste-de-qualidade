@@ -129,7 +129,7 @@ h2:after {
 }
 
 #header .btn:hover {
-    background-color: rgb(84, 180, 84);
+    background-color: rgb(217, 83, 59);
 }
 
 #header nav {
@@ -148,7 +148,7 @@ h2:after {
 }
 
 #header nav a:hover, #header nav a.active {
-    background-color: rgba(84, 209, 84, 0.3);
+    background-color: rgba(225, 39, 15, 0.3);
 }
 
 #header h1 {
@@ -254,7 +254,7 @@ h2:after {
 
 /* Class Styles (continued) */
 .btn {
-    background-color: rgb(84, 209, 84);
+    background-color: rgb(220, 41, 35);
     color: #fff;
     display: inline-block;
     border-radius: 30px;
@@ -266,11 +266,11 @@ h2:after {
 }
 
 .btn:hover {
-    background-color: rgb(84, 180, 84);
+    background-color: rgb(228, 14, 14);
 }
 
 .btn.orange {
-    background-color: #fed136;
+    background-color: #e4270e;
 }
 
 .btn.orange:hover {
@@ -297,7 +297,7 @@ h2:after {
 .icon-container .material-icons {
     display: block;
     font-size: 85px;
-    color: rgb(84, 209, 84);
+    color: rgb(236, 25, 25);
     position: absolute;
     top: 50%;
     left: 50%;
@@ -316,7 +316,7 @@ h2:after {
     display: block;
     width: 50%;
     height: 60px;
-    border-right: 2px solid rgb(32, 123, 32);
+    border-right: 2px solid rgb(245, 37, 10);
     background: transparent;
     margin-bottom: 10px;
 }

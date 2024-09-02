@@ -198,7 +198,7 @@ nav ul, nav ul li {
 }
 
 #header nav a:hover, #header nav a.active {
-    background-color: rgba(84, 209, 84, 0.3);
+    background-color: rgba(207, 46, 40, 0.3);
 }
 
 /* Header */
@@ -321,7 +321,7 @@ nav ul, nav ul li {
 
 /* Specific Sections */
 #header.page-home {
-    background-image: url(../../images/background-header.jpg);
+    background-image: url(../../images/background-h.jpg);
 }
 
 #customers {
