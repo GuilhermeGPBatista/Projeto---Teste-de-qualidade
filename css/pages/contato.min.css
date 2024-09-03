@@ -151,7 +151,7 @@ input:focus, textarea:focus {
 }
 
 .btn:hover {
-    background-color: rgb(84, 180, 84);
+    background-color: rgb(238, 22, 22);
 }
 
 .btn.orange {
@@ -259,7 +259,7 @@ nav ul, nav ul li {
 }
 
 #header .btn:hover {
-    background-color: rgb(84, 180, 84);
+    background-color: rgb(243, 42, 16);
 }
 
 #header nav {
@@ -274,7 +274,7 @@ nav ul, nav ul li {
 }
 
 #header nav a:hover, #header nav a.active {
-    background-color: rgba(84, 209, 84, 0.3);
+    background-color: rgba(230, 23, 23, 0.3);
 }
 
 #header .title {

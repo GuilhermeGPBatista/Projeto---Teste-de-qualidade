@@ -5,8 +5,7 @@
 }
 
 a {
-    text-decoration: none;
-}
+text-decoration: none;}
 
 body {
     margin: 0;
@@ -111,7 +110,7 @@ p {
 }
 
 .btn:hover {
-    background-color: rgb(84, 180, 84);
+    background-color: rgb(228, 32, 18);
 }
 
 .btn.orange {
@@ -219,7 +218,7 @@ nav ul, nav ul li {
 }
 
 #header .btn:hover {
-    background-color: rgb(84, 180, 84);
+    background-color: rgb(230, 17, 17);
 }
 
 #header nav {
@@ -234,7 +233,7 @@ nav ul, nav ul li {
 }
 
 #header nav a:hover, #header nav a.active {
-    background-color: rgba(84, 209, 84, 0.3);
+    background-color: rgba(235, 13, 13, 0.3);
 }
 
 #header .title {
